@@ -1,4 +1,2 @@
-Flask
-numpy
-pandas
-scikit-learn
+gunicorn==23.0.0
+packaging==25.0
